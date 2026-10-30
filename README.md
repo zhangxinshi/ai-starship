@@ -341,3 +341,7 @@ Official site: **https://markkit.mengstone.com/**
 
 **官网：https://markkit.mengstone.com/**  
 **AI 星舰 / AI Starship · MarkKit**
+
+---
+
+**双语实测页 / Bilingual review:** https://github.com/zhangxinshi/mengstone-site-reviews/blob/main/sites/markkit.md
